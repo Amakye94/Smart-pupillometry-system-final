@@ -120,6 +120,15 @@ pip install -r requirements.txt
 streamlit run App.py
 ▶️ Run FastAPI Backend
 uvicorn api:app --reload
+📸 Usage
+Upload an eye image
+Click “Analyze”
+View:
+pupil measurements
+calibration metrics
+classification
+interpretation
+image quality metrics
 # 📂 Project Structure
 
 ```bash
