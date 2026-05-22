@@ -109,7 +109,17 @@ System performance may be affected by:
 - FastAPI
 
 ---
-
+▶️ Installation
+Clone Repository
+git clone https://github.com/Amakye94/Smart-pupillometry-system-final.git
+Navigate Into Project
+cd Smart-pupillometry-system-final
+Install Dependencies
+pip install -r requirements.txt
+▶️ Run Streamlit Frontend
+streamlit run App.py
+▶️ Run FastAPI Backend
+uvicorn api:app --reload
 # 📂 Project Structure
 
 ```bash
